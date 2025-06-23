@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+body {
+  background-color: pink;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.8rem;
+  color: var(--color-white);
+  transition: all 0.4s ease-in-out;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+  font-family: inherit;
+}
+
+header {
+  height: 100vh;
+  color: var(--color-white);
+}
+
+section {
+  min-height: 100vh;
+  width: 100%;
+  position: relative;
+  padding: 1.5rem 2rem;
+}
