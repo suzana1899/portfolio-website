@@ -836,8 +836,8 @@ section {
 @media screen and (max-width: 600px) {
   .portfolios {
     grid-template-columns: 1fr;
-    padding-left: 4rem;
-    padding-right: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
   .contact-content-con {
     padding: 0 0.2rem;
@@ -865,8 +865,8 @@ section {
 }
 @media screen and (max-width: 500px) {
   .portfolios {
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }
 @media screen and (max-width: 464px) {
